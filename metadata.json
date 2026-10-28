@@ -1,0 +1,6 @@
+{
+  "name": "Neo Care Pro",
+  "description": "NICU clinical calculator and reference for neonatal jaundice (AAP 2022), respiratory distress, fluids, GIR, and resuscitation drug dosing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
